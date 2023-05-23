@@ -1,0 +1,145 @@
+[
+    {
+        "sub_category": "Avengers",
+        "picture": "https://cdn.pixabay.com/photo/2022/02/04/21/37/iron-man-6993675_1280.jpg",
+        "toy_name": "Iron Man Action Figure",
+        "seller_name": "Marvel Merchandise Store",
+        "seller_email": "merchstore@example.com",
+        "price": 24.99,
+        "rating": 4.5,
+        "available_quantity": 20,
+        "detail_description": "Unleash the power of Iron Man with this highly detailed action figure."
+    },
+    {
+        "sub_category": "Avengers",
+        "picture": "https://cdn.pixabay.com/photo/2020/07/02/19/24/marvel-5364098_1280.jpg",
+        "toy_name": "Spider-Man Web Slinger",
+        "seller_name": "Superhero Toys Unlimited",
+        "seller_email": "toysunlimited@example.com",
+        "price": 19.99,
+        "rating": 4.8,
+        "available_quantity": 15,
+        "detail_description": "Shoot webs and swing into action with this Spider-Man web slinger toy."
+    },
+    {
+        "sub_category": "Avengers",
+        "picture": "https://cdn.pixabay.com/photo/2022/06/05/11/06/action-figures-7243788_1280.jpg",
+        "toy_name": "Captain America Shield",
+        "seller_name": "Heroic Collectibles",
+        "seller_email": "collectibles@example.com",
+        "price": 29.99,
+        "rating": 4.7,
+        "available_quantity": 10,
+        "detail_description": "Defend justice with the iconic Captain America shield replica."
+    },
+    {
+        "sub_category": "Guardian Of The Galaxy",
+        "picture": "https://cdn.pixabay.com/photo/2019/07/16/00/01/groot-super-hero-4340715_1280.jpg",
+        "toy_name": "Interactive Groot Figure",
+        "seller_name": "Nature's Wonder Toys",
+        "seller_email": "naturestoys@example.com",
+        "price": 39.99,
+        "rating": 4.7,
+        "available_quantity": 8,
+        "detail_description": "Bring home the charm of Groot with this interactive figure. Responds to touch and sound, with dancing and repeating phrases."
+    },
+    {
+        "sub_category": "Avengers",
+        "picture": "https://cdn.pixabay.com/photo/2019/01/04/05/02/toy-3912458_1280.jpg",
+        "toy_name": "Hulk Smash Hands",
+        "seller_name": "Smash City Toys",
+        "seller_email": "smashcity@example.com",
+        "price": 14.99,
+        "rating": 4.2,
+        "available_quantity": 12,
+        "detail_description": "Get ready for smashing action with these Hulk-inspired foam smash hands."
+    },
+    {
+        "sub_category": "Avengers",
+        "picture": "https://cdn.pixabay.com/photo/2017/11/26/00/44/agent-13-2977921_1280.jpg",
+        "toy_name": "Black Widow Costume",
+        "seller_name": "Hero Haven Costumes",
+        "seller_email": "herohaven@example.com",
+        "price": 39.99,
+        "rating": 4.9,
+        "available_quantity": 5,
+        "detail_description": "Channel your inner spy with this Black Widow-inspired costume for kids."
+    },
+    {
+        "sub_category": "Avengers",
+        "picture": "https://cdn.pixabay.com/photo/2020/03/23/15/59/panther-4961261_1280.jpg",
+        "toy_name": "Black Panther Mask",
+        "seller_name": "Panther's Den",
+        "seller_email": "pantherden@example.com",
+        "price": 9.99,
+        "rating": 4.0,
+        "available_quantity": 20,
+        "detail_description": "Join the ranks of Wakanda with this authentic Black Panther mask."
+    },
+    {
+        "sub_category": "X-men",
+        "picture": "https://cdn.pixabay.com/photo/2020/01/19/13/20/wolverine-4777767_1280.jpg",
+        "toy_name": "Wolverine Claws",
+        "seller_name": "Mutant Emporium",
+        "seller_email": "mutantemporium@example.com",
+        "price": 12.99,
+        "rating": 4.3,
+        "available_quantity": 18,
+        "detail_description": "Unleash the fury of Wolverine with these retractable claws. Perfect for role-playing and cosplay."
+    },
+    {
+        "sub_category": "Avengers",
+        "picture": "https://cdn.pixabay.com/photo/2019/07/14/23/31/thanos-infinity-war-4338308_1280.jpg",
+        "toy_name": "Thanos Gauntlet",
+        "seller_name": "Cosmic Collectibles",
+        "seller_email": "cosmiccollectibles@example.com",
+        "price": 49.99,
+        "rating": 4.7,
+        "available_quantity": 7,
+        "detail_description": "Command the power of the Infinity Stones with this Thanos Gauntlet replica. Features articulated fingers and light-up effects."
+    },
+    {
+        "sub_category": "Guardian Of The Galaxy",
+        "picture": "https://cdn.pixabay.com/photo/2019/05/23/03/14/nebula-guardian-4223088_1280.jpg",
+        "toy_name": "Nebula Action Figure",
+        "seller_name": "Galactic Toys Emporium",
+        "seller_email": "galactictoys@example.com",
+        "price": 14.99,
+        "rating": 4.4,
+        "available_quantity": 12,
+        "detail_description": "Recreate epic battles from the Guardians of the Galaxy with this Nebula action figure. Highly poseable with weapon accessories."
+    },
+    {
+        "sub_category": "Avengers",
+        "picture": "https://cdn.pixabay.com/photo/2020/07/02/19/36/marvel-5364165_1280.jpg",
+        "toy_name": "Doctor Strange Spell Book",
+        "seller_name": "Mystic Marvels",
+        "seller_email": "mysticmarvels@example.com",
+        "price": 29.99,
+        "rating": 4.6,
+        "available_quantity": 9,
+        "detail_description": "Explore the mystical arts with this Doctor Strange spell book toy. Features interactive spells and incantations."
+    },
+    {
+        "sub_category": "X-men",
+        "picture": "https://cdn.pixabay.com/photo/2019/01/13/09/57/toy-3930018_1280.jpg",
+        "toy_name": "Deadpool Plush Doll",
+        "seller_name": "Merc With a Plush",
+        "seller_email": "plushmerc@example.com",
+        "price": 19.99,
+        "rating": 4.5,
+        "available_quantity": 15,
+        "detail_description": "Cuddle up with the Merc with a Mouth with this soft and huggable Deadpool plush doll. Perfect for fans of all ages."
+    },
+    {
+        "sub_category": "Guardian Of The Galaxy",
+        "picture": "https://cdn.pixabay.com/photo/2019/07/16/00/03/star-lord-peter-jason-quill-4340716_1280.jpg",
+        "toy_name": "Star-Lord Electronic Helmet",
+        "seller_name": "Galactic Gear Emporium",
+        "seller_email": "galacticgear@example.com",
+        "price": 59.99,
+        "rating": 4.8,
+        "available_quantity": 5,
+        "detail_description": "Gear up as Star-Lord with this electronic helmet. Features LED lights, sound effects, and built-in music player with Awesome Mix tape."
+    }
+]
