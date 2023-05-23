@@ -1,5 +1,5 @@
 {
-  "name": "b7a11-toy-marketplace-server-side-khosman",
+  "name": "miniheroes_serverside",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,19 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/programming-hero-web-course-4/b7a11-toy-marketplace-server-side-khOsman.git"
+    "url": "git+https://github.com/khOsman/miniheroes_serverside.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/programming-hero-web-course-4/b7a11-toy-marketplace-server-side-khOsman/issues"
+    "url": "https://github.com/khOsman/miniheroes_serverside/issues"
   },
-  "homepage": "https://github.com/programming-hero-web-course-4/b7a11-toy-marketplace-server-side-khOsman#readme",
+  "homepage": "https://github.com/khOsman/miniheroes_serverside#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "dotenv": "^16.0.3",
-    "express": "^4.18.2",
+    "exxpress": "^1.0.0",
     "mongodb": "^5.5.0"
   }
 }
